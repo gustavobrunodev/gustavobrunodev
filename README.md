@@ -12,6 +12,7 @@ I love making a good plan before start anything, do things one step at a time, a
 
 ```js
 const importantLinks = {
+   📒 Medium: 'gustavobruno.medium.com', 
    👨🏻‍💻 Website: 'https://gustavobruno.dev',
    👋 Email: 'contato@gustavobruno.dev',
 }
