@@ -4,11 +4,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavobrunodev/)](https://www.linkedin.com/in/gustavobrunodev/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://gustavobruno.medium.com/)](https://gustavobruno.medium.com/)
 
-I've been working with web and mobile software development for more than 4 years. I have started my career as a Freelancer and already developed 2 relatively big web applications for my business customers using as main technologies React.js, Next.js, Node.js and Express. 
-In my experiences working in companies I've worked with a good variety of diferent technologies such as React.js, Next.js, React Native, Node.js, Angular, MongoDB, Postgres and so on. 
-I've been working mostly focused on mobile develepment for the past 1 year with React Native, Android, IOS (Storyboard, Cocoapods, Testflight), and personally I've enjoyed it so much. But right now, I'm back to be mainly focused on web development, and it's ecosystem.
-I love what I do, and I'm constantly studying and catching up about new technologies and embracing what make sense to me, or the context I'm working with. 
-I love making a good plan before start anything, do things one step at a time, and adpating things for the better according to it's context and reality of the bussiness.
+I am passionate about turning complex challenges into simple and sustainable solutions.
+
+With nearly five years of experience as a software engineer, I've been involved in more than 20 different projects, including some with prominent companies in the Brazilian market. Throughout this journey, I've gained hands-on experience in applying best practices, creating value for companies through high-performance, scalable, and resilient applications.
+
+I am currently a Senior Software Engineer at @Zup, where I work on the development of the leading currency exchange product for the largest bank in Latin America. The application is responsible for directing users to currency exchange services that move billions in value annually. My goal is to create innovative solutions that meet the highest quality standards for this key client.
+
+My experience spans a wide range of sectors, including banking, telecommunications, healthcare, and education. I've had the opportunity to work with leading companies such as Itaú, Claro, Vivo, Funcional, Unit, Banese, OAB, and FIEF, among others.
+
+In addition to my work, I am dedicated to sharing knowledge and contributing to the development community. I regularly write articles on Medium and LinkedIn to share my insights, as I believe that knowledge dissemination is essential for strengthening the community and fostering innovation.
 
 
 ```js
