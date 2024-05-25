@@ -1,7 +1,8 @@
 ## Hello, I’m Gustavo Bruno</a>
 
+[![Portfolio Badge](https://img.shields.io/badge/Website-gustavobruno.dev-black)](gustavobruno.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavobrunodev/)](https://www.linkedin.com/in/gustavobrunodev/)
-
+[![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://gustavobruno.medium.com/)](https://gustavobruno.medium.com/)
 
 I've been working with web and mobile software development for more than 4 years. I have started my career as a Freelancer and already developed 2 relatively big web applications for my business customers using as main technologies React.js, Next.js, Node.js and Express. 
 In my experiences working in companies I've worked with a good variety of diferent technologies such as React.js, Next.js, React Native, Node.js, Angular, MongoDB, Postgres and so on. 
